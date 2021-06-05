@@ -8,7 +8,6 @@ class MyPokemon extends Component {
       {({ pokemon, releasepokemon }) => (
 	 	 <React.Fragment>
 			<div className="myPokemonList">
-	        <h2><i>MY POKEMON</i></h2>
 	        {
               pokemon.length > 0 ? pokemon.map(item => {
               const {name, nickname} = item;
