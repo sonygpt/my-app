@@ -242,6 +242,7 @@ ul.header li a {
 }
 
 .pokemonDetailsImg {
+  width: 50vh;
   height: 40vh;
   display: block;
   margin-left: auto;
