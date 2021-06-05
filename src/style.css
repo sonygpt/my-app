@@ -302,7 +302,7 @@ h1.capitalize.italics {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 5rem;
+  padding-top: 5rem !important;
 }
 
 .subContainer {
@@ -343,5 +343,5 @@ h1.capitalize.italics {
 }
 
 .myPokemonList {
-  padding-top: 5rem;
+  padding-top: 5rem !important;
 }
