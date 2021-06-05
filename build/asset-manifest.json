@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.6aaa1205.chunk.css",
+    "main.js": "/my-app/static/js/main.db67a897.chunk.js",
+    "main.js.map": "/my-app/static/js/main.db67a897.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.5dda7226.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.5dda7226.js.map",
+    "static/js/2.4bc0eb55.chunk.js": "/my-app/static/js/2.4bc0eb55.chunk.js",
+    "static/js/2.4bc0eb55.chunk.js.map": "/my-app/static/js/2.4bc0eb55.chunk.js.map",
+    "static/js/3.0a8c1a3c.chunk.js": "/my-app/static/js/3.0a8c1a3c.chunk.js",
+    "static/js/3.0a8c1a3c.chunk.js.map": "/my-app/static/js/3.0a8c1a3c.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.6aaa1205.chunk.css.map": "/my-app/static/css/main.6aaa1205.chunk.css.map",
+    "static/js/2.4bc0eb55.chunk.js.LICENSE.txt": "/my-app/static/js/2.4bc0eb55.chunk.js.LICENSE.txt",
+    "static/media/arbok.jpg": "/my-app/static/media/arbok.8afbda4b.jpg",
+    "static/media/fearow.jpg": "/my-app/static/media/fearow.0929604b.jpg",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg",
+    "static/media/logo.f811af7e.png": "/my-app/static/media/logo.f811af7e.png",
+    "static/media/sandshrew.jpg": "/my-app/static/media/sandshrew.4e7b8229.jpg",
+    "static/media/sandslash.jpg": "/my-app/static/media/sandslash.9f7f951a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dda7226.js",
+    "static/js/2.4bc0eb55.chunk.js",
+    "static/css/main.6aaa1205.chunk.css",
+    "static/js/main.db67a897.chunk.js"
+  ]
+}
