@@ -13,7 +13,7 @@ class PokemonDetail extends Component {
   componentDidMount() {
     let url           = window.location.href;
     let url_split     = url.split("/");
-    let pokemon_name  = url_split[5];
+    let pokemon_name  = url_split[url_split.length-1];
 
     fetch("https://pokeapi.co/api/v2/pokemon/"+pokemon_name)
       .then(res => res.json())
