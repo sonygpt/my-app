@@ -5,7 +5,7 @@
 import React from 'react';
 import Main from './Main';
 import { NavLink } from "react-router-dom";
-import { shallow } from '../.././enzyme';
+import { shallow } from '.././enzyme';
 import '@testing-library/jest-dom';
 
 test('full app rendering/navigating', () => {

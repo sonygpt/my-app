@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
-import Gallery from 'react-grid-gallery';
  
 class PokemonList extends Component {
   constructor(props) {
